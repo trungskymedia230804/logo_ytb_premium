@@ -12,3 +12,5 @@ https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
 Vào YouTube, nhấn icon Stylus → “Write new style for youtube.com”
 
 Sau đó dùng code ở ytb_premium.css dán dô
+
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/9f198ec3-ec8f-4cc0-9972-e532a47d78a8" />
