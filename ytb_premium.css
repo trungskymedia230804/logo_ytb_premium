@@ -4,7 +4,7 @@ ytd-topbar-logo-renderer #logo yt-icon {
 }
 
 ytd-topbar-logo-renderer #logo {
-  background: url("https://files.catbox.moe/540nof.png") no-repeat center center !important;
+  background: url("https://raw.githubusercontent.com/trungskymedia230804/logo_ytb_premium/main/ytb_premium_white.png") no-repeat center center !important;
   background-size: contain !important;
   width: 120px !important;
   height: 35px !important;
@@ -13,4 +13,5 @@ ytd-topbar-logo-renderer #logo {
 }
 #country-code {
   display: none !important;
+
 }
