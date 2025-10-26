@@ -1,7 +1,7 @@
 # logo_ytb_premium
 Cách “fake giao diện” (để nhìn cho vui)
 
-Nếu bạn chỉ muốn thay chữ “VN” thành “Premium” cho đẹp:
+Nếu bạn chỉ muốn thay chữ “youtube” thành “Premium” cho đẹp:
 
 Cài extension Stylus (Chrome Web Store). 
 
