@@ -1,0 +1,16 @@
+ytd-topbar-logo-renderer #logo-icon,
+ytd-topbar-logo-renderer #logo yt-icon {
+  display: none !important;
+}
+
+ytd-topbar-logo-renderer #logo {
+  background: url("https://files.catbox.moe/540nof.png") no-repeat center center !important;
+  background-size: contain !important;
+  width: 120px !important;
+  height: 35px !important;
+  display: inline-block !important;
+  cursor: pointer !important;
+}
+#country-code {
+  display: none !important;
+}
